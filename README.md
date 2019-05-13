@@ -1,4 +1,4 @@
-# **[maxcodes.io](maxcodes.io)**
+# **[maxcodes.io](https://www.maxcodes.io)**
 
 # PinterestLayout-UICollectionViewFlowLayout
 An implementation of the Pinterest Style Layout with UICollectionView and a custom UICollectionViewFlowLayout. Customizable and dynamic. IE (2, 3, or how ever many rows you want)
